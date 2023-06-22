@@ -6,7 +6,7 @@ export default function Hero() {
       <div className='mx-auto'>
         <h2 className='text-5xl'>
           {"Hi, I'm"}{' '}
-          <span className='bg-gradient-to-r from-cyan-400 via-pink-600 to-blue-600 bg-clip-text'>
+          <span className='bg-gradient-to-r from-cyan-400 via-gray-400  to-pink-300 bg-clip-text text-transparent'>
             Justin
           </span>
         </h2>

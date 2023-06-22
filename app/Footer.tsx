@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Footer() {
   return (
-    <footer className='max-w-7xl text-center'>
+    <footer className='grid max-w-7xl gap-2 text-center'>
       <span className=''>
         <small>&copy; 2023 Justin Quinn. All rights reserved.</small>
       </span>

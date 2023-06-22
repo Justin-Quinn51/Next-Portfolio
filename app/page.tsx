@@ -6,7 +6,7 @@ import Technology from './Technology';
 
 export default function Home() {
   return (
-    <main className='grid gap-2 bg-gray-600 text-zinc-50'>
+    <main className='grid gap-4 bg-gray-600 text-zinc-50'>
       <Header />
       <Hero />
       <Projects />
